@@ -1,0 +1,185 @@
+body{
+    /* background:radial-gradient(crimson 20%, black 80% );  */
+    background-image: url("redbg.png");
+}
+
+hr{
+    border-top: dotted 5px;
+    border-bottom: none;
+    width: 100%;
+    color: aliceblue;
+}
+.div1{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.67);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Bebas Neue', cursive;
+    border-radius: 80px;    
+    
+}
+
+.welcome{
+    color: azure;
+    font-size: 46px;
+
+}
+
+.welcome:hover{
+    color: crimson;
+    transition: 300ms;
+} 
+
+
+.div2{
+    margin-top: 20px;
+}
+.marquee{
+    color: aquamarine;
+    font-size: 20px;
+}
+.marquee:hover{
+    color: rgb(236, 216, 255);
+}
+
+.div3{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.img1{
+    position: absolute;
+    border: 5px solid crimson;
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+
+.img2{
+    position: absolute;
+    left: 350px;
+    border: 5px solid crimson;
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+.img3{
+        position: absolute;
+        left: 690px;
+        border: 5px solid crimson;
+        filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+.img4{
+    position: absolute;
+    left: 1040px;
+    border: 5px solid crimson;
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+.div4{
+    margin-top: 450px;
+}
+
+.img5{
+    position: absolute;
+    left: 10px;
+    border: 5px solid crimson;
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+.img6{
+    position: absolute;
+    left: 350px;
+    border: 5px solid crimson;
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+.img7{
+    position: absolute;
+    left: 690px;
+    border: 5px solid crimson;
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+.img8{
+    position: absolute;
+    left: 1040px;
+    border: 5px solid crimson;
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+
+.bt-con{
+    margin-top: 900px;
+    text-align: center;
+    padding: 50px 0 20px;
+    background-color: rgba(0, 0, 0, 0.569); 
+    color: white;
+    border-radius: 20px;
+}
+.footer-link{
+    color: white;
+    display: inline-block;
+    margin: 0 10px;
+    
+}
+.div-reg2{
+    text-align: center;
+    background-color: beige;
+    border-radius: 20px;
+    padding-bottom: 30px;
+}
+.btn{
+    border-radius: 20px;
+    background-color: crimson;
+    height: 30px;
+    width: 100px;
+    color: aliceblue;
+    text-decoration: none;
+}
+.all-text-boxes{
+    border-radius: 20px;
+    background-color: rgba(255, 156, 169, 0.598);
+    height: 20px;
+}
+
+
+.img1:hover{
+    opacity: 90%;
+    transform: scale(1.05);
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+
+.img2:hover{
+    opacity: 90%;
+    transform: scale(1.05);
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+.img3:hover{
+    opacity: 90%;
+    transform: scale(1.05);
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+.img4:hover{
+    opacity: 90%;
+    transform: scale(1.05);
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+.img5:hover{
+    opacity: 90%;
+    transform: scale(1.05);
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+.img6:hover{
+    opacity: 90%;
+    transform: scale(1.05);
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+.img7:hover{
+    opacity: 90%;
+    transform: scale(1.05);
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));
+}
+.img8:hover{
+    opacity: 90%;
+    transform: scale(1.05);
+    filter: drop-shadow(0 0 0.99rem rgb(0, 0, 0));  
+}
+.marquee-link{
+    color: aliceblue;
+    filter: drop-shadow(0 0 0.99rem rgb(255, 96, 96));
+}
+.marquee-link:hover{
+    color: crimson;
+}
+
